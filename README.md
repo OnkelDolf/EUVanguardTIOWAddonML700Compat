@@ -14,7 +14,7 @@ What this addon does:
 - Adds a 150rnd and 200rnd Las-LMG powerpack for the Las-LMG.
 - Modifies the Type 14 and Hellgun powerpacks to be carriable. You can carry two with the Infantry AT Backpack
 
-Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1811025521
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1901774786
 
 Template Creator: Sabre One <br />
 Template: https://github.com/silentghoust/TIOW-ACE-Compatability-Mod
