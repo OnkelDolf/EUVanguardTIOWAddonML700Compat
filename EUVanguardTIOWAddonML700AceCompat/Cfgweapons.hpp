@@ -3019,44 +3019,44 @@ class Cfgweapons {
 				class Neck
 				{
 					hitpointName="HitNeck";
-					armor=120; //~54% increase of the normal Cadian flak armour
-					passThrough=0.5;
+					armor=100; //~54% increase of the normal Cadian flak armour
+					passThrough=0.9;
 				};
 				class Arms
 				{
 					hitpointName="HitArms";
-					armor=120;
-					passThrough=0.5;
+					armor=100;
+					passThrough=0.9;
 				};
 				class Chest
 				{
 					hitpointName="HitChest";
-					armor=120;
-					passThrough=0.6;
+					armor=100;
+					passThrough=0.9;
 				};
 				class Diaphragm
 				{
 					hitpointName="HitDiaphragm";
-					armor=120;
-					passThrough=0.6;
+					armor=100;
+					passThrough=0.9;
 				};
 				class Abdomen
 				{
 					hitpointName="HitAbdomen";
 					armor=24;
-					passThrough=0.3;
+					passThrough=0.6;
 				};
 				class Pelvis
 				{
 					hitpointName="HitPelvis";
 					armor=24;
-					passThrough=0.3;
+					passThrough=0.6;
 				};
 				class Body
 				{
 					hitpointName="HitBody";
-					armor=120;
-					passThrough=0.6;
+					armor=100;
+					passThrough=0.9;
 				};
 				/*
 				class Neck
@@ -3139,44 +3139,44 @@ class Cfgweapons {
 				class Neck
 				{
 					hitpointName="HitNeck";
-					armor=120; //125% increase of the normal Cadian flak armour 175.5
-					passThrough=0.5;
+					armor=100; //~54% increase of the normal Cadian flak armour
+					passThrough=0.9;
 				};
 				class Arms
 				{
 					hitpointName="HitArms";
-					armor=120;
-					passThrough=0.5;
+					armor=100;
+					passThrough=0.9;
 				};
 				class Chest
 				{
 					hitpointName="HitChest";
-					armor=120;
-					passThrough=0.6;
+					armor=100;
+					passThrough=0.9;
 				};
 				class Diaphragm
 				{
 					hitpointName="HitDiaphragm";
-					armor=120;
-					passThrough=0.6;
+					armor=100;
+					passThrough=0.9;
 				};
 				class Abdomen
 				{
 					hitpointName="HitAbdomen";
 					armor=24;
-					passThrough=0.3;
+					passThrough=0.6;
 				};
 				class Pelvis
 				{
 					hitpointName="HitPelvis";
 					armor=24;
-					passThrough=0.3;
+					passThrough=0.6;
 				};
 				class Body
 				{
 					hitpointName="HitBody";
-					armor=120;
-					passThrough=0.6;
+					armor=100;
+					passThrough=0.9;
 				};
 			};
 		};

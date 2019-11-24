@@ -3,7 +3,46 @@ class CfgMagazines
     class Default;
 	class CA_Magazine: Default{};
 
-	
+	class Type14_mag: CA_Magazine
+	{
+		scope=2;
+		model="\DKoK_Weapons\Model\Type14_mag.p3d";
+		displayName="[Krieg] Type 14 (Heavy) Battery Pack";
+		picture="\DKoK_Weapons\Icon\Type14Mag_ca.paa";
+		ammo="Type14_LasBolt";
+		count=200;
+		mass=160;
+		initSpeed=10000;
+		tracersEvery=1;
+		allowedslots[] = {901};
+		lastRoundsTracer=999;
+		descriptionShort="[Krieg] Type 14 (Heavy) Battery Pack";
+		magazineGroup[]=
+		{
+			"Type14_mags"
+		};
+	};
+
+	class TIOW_CadianHellgun_Mag: CA_Magazine
+	{
+		scope=2;
+		model="\Cadian_Weapons\Model\M36KantRifleMag.p3d";
+		displayName="[Cadian] Kasrkin Hellgun Powerpack";
+		picture="\Cadian_Weapons\Icon\CadianHellgun_ca.paa";
+		ammo="Type14_LasBolt";
+		count=200;
+		mass=160;
+		initSpeed=10000;
+		tracersEvery=1;
+		lastRoundsTracer=999;
+		allowedslots[] = {901};
+		descriptionShort="[Cadian] Kasrkin Hellgun Powerpack";
+		magazineGroup[]=
+		{
+			"TIOW_CadianHellgun_mags"
+		};
+	};
+
     class HighDensityM36KantRifle_mag: CA_Magazine
 	{
 		scope=2;
@@ -16,6 +55,24 @@ class CfgMagazines
 		tracersEvery=1;
 		lastRoundsTracer=999;
 		descriptionShort="[Cadian] High Powered M36 Kantrael Lasrifle Powerpack";
+		magazineGroup[]=
+		{
+			"M36KantRifle_mags"
+		};
+	};
+
+	class Experimental_mag: CA_Magazine
+	{
+		scope=2;
+		model="\Cadian_Weapons\Model\M36KantRifleMag.p3d";
+		displayName="[Cadian] Experimental M36 Kantrael Lasrifle Powerpack";
+		picture="\Cadian_Weapons\Icon\KantLasriflePowerpack_ca.paa";
+		ammo="ExperimentalM36KantRifle_LasBolt";
+		count=25;
+		initSpeed=10000;
+		tracersEvery=1;
+		lastRoundsTracer=999;
+		descriptionShort="";
 		magazineGroup[]=
 		{
 			"M36KantRifle_mags"
