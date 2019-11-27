@@ -13,6 +13,9 @@ What this addon does:
 - Adds a [Vanguard] Unkown Pattern Las-LMG which is currently using the m36 model. Will get a model once it's finnished.
 - Adds a 150rnd and 200rnd Las-LMG powerpack for the Las-LMG.
 - Modifies the Type 14 and Hellgun powerpacks to be carriable. You can carry two with the Infantry AT Backpack
+- Increases the damage by Krak Missiles by around 50%.
+- Adds a Smoke Missile for the DKoK Launcher.
+- Probably something else I forgot about.
 
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1901774786
 
