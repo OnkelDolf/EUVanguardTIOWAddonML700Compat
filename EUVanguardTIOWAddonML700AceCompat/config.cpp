@@ -21,3 +21,5 @@ class Default;
 class Default;
 class BulletBase;
 #include "CfgAmmo.hpp"
+class Default;
+#include "CfgSmoke.hpp"

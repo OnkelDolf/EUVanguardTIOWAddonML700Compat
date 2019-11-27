@@ -1026,7 +1026,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1039,7 +1039,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1052,7 +1052,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1065,7 +1065,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1078,7 +1078,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1091,7 +1091,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1104,7 +1104,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1117,7 +1117,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1129,7 +1129,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1142,7 +1142,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1155,7 +1155,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1167,7 +1167,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1180,7 +1180,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1193,7 +1193,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1206,7 +1206,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1219,7 +1219,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1232,7 +1232,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1245,7 +1245,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1258,7 +1258,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1271,7 +1271,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1284,7 +1284,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1297,7 +1297,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1310,7 +1310,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1323,7 +1323,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1336,7 +1336,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1349,7 +1349,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1362,7 +1362,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1375,7 +1375,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1388,7 +1388,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1400,7 +1400,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1412,7 +1412,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1424,7 +1424,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1437,7 +1437,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1449,7 +1449,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1462,7 +1462,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1475,7 +1475,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1488,7 +1488,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1501,7 +1501,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1514,7 +1514,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1527,7 +1527,7 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
@@ -1539,13 +1539,14 @@ class Cfgweapons {
 			class HitpointsProtectionInfo {
 				class Head {
 					hitpointName = "HitHead";
-					armor = 35;
+					armor = 45;
 					passThrough = 0.1;
 				};
 			};
 		};
 	};
 	*/
+	
 	class Rifle;
 	class Rifle_Base_F: Rifle
 	{
@@ -3019,44 +3020,44 @@ class Cfgweapons {
 				class Neck
 				{
 					hitpointName="HitNeck";
-					armor=100; //~54% increase of the normal Cadian flak armour
-					passThrough=0.9;
+					armor=80;
+					passThrough=0.3;
 				};
 				class Arms
 				{
 					hitpointName="HitArms";
-					armor=100;
-					passThrough=0.9;
+					armor=80;
+					passThrough=0.3;
 				};
 				class Chest
 				{
 					hitpointName="HitChest";
-					armor=100;
-					passThrough=0.9;
+					armor=80;
+					passThrough=0.3;
 				};
 				class Diaphragm
 				{
 					hitpointName="HitDiaphragm";
-					armor=100;
-					passThrough=0.9;
+					armor=80;
+					passThrough=0.3;
 				};
 				class Abdomen
 				{
 					hitpointName="HitAbdomen";
-					armor=24;
-					passThrough=0.6;
+					armor=35;
+					passThrough=0.1;
 				};
 				class Pelvis
 				{
 					hitpointName="HitPelvis";
-					armor=24;
-					passThrough=0.6;
+					armor=35;
+					passThrough=0.1;
 				};
 				class Body
 				{
 					hitpointName="HitBody";
-					armor=100;
-					passThrough=0.9;
+					armor=80;
+					passThrough=0.3;
 				};
 				/*
 				class Neck
@@ -4076,5 +4077,123 @@ class Cfgweapons {
 			"Cadian_Weapons\Data\Textures\M36KantRifle_wording_co.paa"
 		};
 		model="\Cadian_Weapons\Model\M36KantRifle.p3d";
+	};
+
+	class launch_RPG7_F: Launcher_Base_F
+	{
+	};
+
+	class MissileLauncherDKOK: launch_RPG7_F
+	{
+		author="1st legion";
+		model="DKoK_Weapons\Model\MissileLauncher.p3d";
+		scope=0;
+		displayName="Death Korps Missile Launcher";
+		handAnim[]=
+		{
+			"OFP2_ManSkeleton",
+			"\DKoK_Weapons\Anim\MissileLauncher.rtm"
+		};
+		descriptionShort="Death Korps Missile Launcher";
+		lockingTargetSound[]=
+		{
+			"A3\Sounds_F\arsenal\weapons\Launchers\NLAW\locking_NLAW",
+			0.316228,
+			1
+		};
+		lockedTargetSound[]=
+		{
+			"A3\Sounds_F\arsenal\weapons\Launchers\NLAW\locked_NLAW",
+			0.316228,
+			2.5
+		};
+		changeFiremodeSound[]=
+		{
+			"A3\sounds_f\dummysound",
+			0.56234097,
+			1,
+			20
+		};
+		modelOptics="\A3\Weapons_F\acc\reticle_NLAW";
+		opticsPPEffects[]=
+		{
+			"OpticsCHAbera1",
+			"OpticsBlur1"
+		};
+		opticsZoomMin=0.0623;
+		opticsZoomMax=0.0623;
+		opticsZoomInit=0.0623;
+		class OpticsModes
+		{
+			class optic
+			{
+				opticsID=1;
+				useModelOptics=1;
+				opticsZoomMin=0.0623;
+				opticsZoomMax=0.0623;
+				opticsZoomInit=0.0623;
+				distanceZoomMin=300;
+				distanceZoomMax=300;
+				memoryPointCamera="cam";
+				opticsFlare=1;
+				opticsDisablePeripherialVision=1;
+				cameraDir="look";
+				visionMode[]=
+				{
+					"Normal",
+					"NVG",
+					"TI"
+				};
+				thermalMode[]=
+				{
+					4,
+					5
+				};
+				opticsPPEffects[]=
+				{
+					"OpticsCHAbera1",
+					"OpticsBlur1"
+				};
+			};
+			class Hamr2Collimator
+			{
+				opticsID=1;
+				useModelOptics=0;
+				opticsPPEffects[]=
+				{
+					"Default"
+				};
+				opticsFlare=0;
+				opticsDisablePeripherialVision=0;
+				opticsZoomMin=0.25;
+				opticsZoomMax=1.25;
+				opticsZoomInit=0.75;
+				memoryPointCamera="eye";
+				visionMode[]={};
+				distanceZoomMin=200;
+				distanceZoomMax=200;
+			};
+		};
+		class WeaponSlotsInfo: WeaponSlotsInfo
+		{
+			mass=100;
+		};
+		magazines[]=
+		{
+			"MLAT_Mag",
+			"MLHE_Mag",
+			"MLSmoke_Mag"
+		};
+		canLock=2;
+		weaponLockDelay=5;
+		lockAcquire=0;
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\DKoK_Weapons\Data\Textures\MissileLauncherBlack_co.paa"
+		};
 	};
 };

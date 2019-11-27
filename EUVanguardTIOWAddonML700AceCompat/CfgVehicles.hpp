@@ -18,7 +18,7 @@ class CfgVehicles {
 		class HitPoints { // Additional info can be found on the wiki https://community.bistudio.com/wiki/Arma_3_Soldier_Protection
 			 class HitFace
     {
-        armor = 1;  // "Healthpoints" of this hitpoint is armor value (of hitpoint) * armor value ( coefficient of the total armor defined below for the whole object
+        armor = 6;  // "Healthpoints" of this hitpoint is armor value (of hitpoint) * armor value ( coefficient of the total armor defined below for the whole object
         material = -1; // damage material (-1 means "unused")
         name = "face_hub"; // selection name from hit points LOD in object
         passThrough = 0.8; // coefficient defining how much damage will pass into total damage when this hit point is damaged
@@ -29,7 +29,7 @@ class CfgVehicles {
     };
     class HitNeck: HitFace
     {
-        armor = 1;
+        armor = 6;
         material = -1;
         name = "neck";
         passThrough = 0.8;
@@ -40,7 +40,7 @@ class CfgVehicles {
     };
     class HitHead: HitNeck
     {
-        armor = 1;
+        armor = 6;
         material = -1;
         name = "head";
         passThrough = 0.8;
