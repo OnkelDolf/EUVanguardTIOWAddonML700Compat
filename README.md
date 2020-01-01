@@ -7,14 +7,15 @@ What this addon does:
 - Adds a High-Powered powerpack for the M36 Kantrael with double the damage but half the ammo capacity.
 - Adds 100rnd and 150rnd versions of the heavy stubber mags.
 - Increases the space of the Cadian Medicae Backpack and Cadian Medicae Backpack (Winter Camo) by 50%.
-- Adds Vanguard Flak Armor that has a ~30% armor value increase over the normal Cadian Flak Armor.
+- Adds Vanguard Flak Armor that has a ~30% armor value increase over the normal Cadian Flak Armor. Now has a simple retexture.
 - Adds Vanguard Medicae Flak Armor that has a ~30% armor value increase over the normal Cadian Medicae Flak Armor.
-- Adds two Vanguard helmets. The normal helmet and the Hostile Eviroment version with a facemask. Both have a 125% armor value increase over the normal Cadian Helmets.
+- Adds two Vanguard helmets. The normal helmet and the Hostile Eviroment version with a facemask. Both have a 125% armor value increase - over the normal Cadian Helmets.
 - Adds a [Vanguard] Unkown Pattern Las-LMG which is currently using the m36 model. Will get a model once it's finnished.
 - Adds a 150rnd and 200rnd Las-LMG powerpack for the Las-LMG.
-- Modifies the Type 14 and Hellgun powerpacks to be carriable. You can carry two with the Infantry AT Backpack
+- Modifies the Type 14 and Hellgun powerpacks to be carriable. You can carry two with the Infantry AT Backpack.
 - Increases the damage by Krak Missiles by around 50%.
 - Adds a Smoke Missile for the DKoK Launcher.
+- Adds a Melta Missile for the DKoK Launcher.
 - Probably something else I forgot about.
 
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1901774786
