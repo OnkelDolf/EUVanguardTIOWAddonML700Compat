@@ -17,8 +17,8 @@ class Cfgweapons {
 	//////////////////////////////////////////////////////////////////////////////////////
 	//TODO: Balance out the space marines so a Lucius pattern lasgun can't one shot them//
 	//////////////////////////////////////////////////////////////////////////////////////
-	
 	/*
+	
 	class SM_Gear : ItemCore {
 		scope = 0;
 		allowedSlots[] = {BACKPACK_SLOT};
@@ -2987,6 +2987,83 @@ class Cfgweapons {
 		};
 	};
 
+	class Van_Gear: Cad_Gear2
+	{
+		scope=2;
+		scopeCurator=2;
+		scopeArsenal=2;
+		displayName="[Vanguard] Flak Armor";
+		picture="\CadFoot\Icon\KasrkinArmor_ca.paa";
+		model="\CadFoot\Model\CadianKasrkinArmor.p3d";
+		hiddenSelections[]=
+		{
+			"camo",
+			"camoB",
+			"RegimentCamo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"CadFoot\Data\Textures\KasrArmor1_776_co.paa",
+			"CadFoot\Data\Textures\KasrArmor2_776_co.paa",
+			"euvanguardtiowaddon\Data\Textures\GM_FlakArmorReg_Vanguard_ca.paa"
+		};
+		class ItemInfo: ItemInfo
+		{
+			uniformModel="\CadFoot\Model\CadianKasrkinArmor.p3d";
+			containerClass="Supply80";
+			overlaySelectionsInfo[]=
+			{
+				"ghillie_hide"
+			};
+			class HitpointsProtectionInfo
+			{
+				class Neck
+				{
+					hitpointName="HitNeck";
+					armor=80;
+					passThrough=0.4;
+				};
+				class Arms
+				{
+					hitpointName="HitArms";
+					armor=80;
+					passThrough=1;
+				};
+				class Chest
+				{
+					hitpointName="HitChest";
+					armor=80;
+					passThrough=0.3;
+				};
+				class Diaphragm
+				{
+					hitpointName="HitDiaphragm";
+					armor=80;
+					passThrough=0.3;
+				};
+				class Abdomen
+				{
+					hitpointName="HitAbdomen";
+					armor=35;
+					passThrough=0.1;
+				};
+				class Pelvis
+				{
+					hitpointName="HitPelvis";
+					armor=35;
+					passThrough=0.1;
+				};
+				class Body
+				{
+					hitpointName="HitBody";
+					armor=80;
+					passThrough=0.3;
+				};
+			};
+		};
+	};
+
+	/*
     class Van_Gear: Cad_Gear2
 	{
 		scope=2;
@@ -3005,7 +3082,7 @@ class Cfgweapons {
 		{
 			"CadFoot\Data\Textures\GM_FlakArmor_776_co.paa",
 			"",
-			"CadFoot\Data\Textures\GM_FlakArmorReg_776_ca.paa"
+			"euvanguardtiowaddon\Data\Textures\GM_FlakArmorReg_Vanguard_ca.paa"
 		};
 		class ItemInfo: ItemInfo
 		{
@@ -3059,6 +3136,7 @@ class Cfgweapons {
 					armor=80;
 					passThrough=0.3;
 				};
+				*/
 				/*
 				class Neck
 				{
@@ -3103,10 +3181,11 @@ class Cfgweapons {
 					passThrough=0.6;
 				};
 				*/
+				/*
 			};
 		};
 	};
-
+	*/
 	class Van_MedGear: Cad_Gear2
 	{
 		scope=2;
@@ -4182,7 +4261,8 @@ class Cfgweapons {
 		{
 			"MLAT_Mag",
 			"MLHE_Mag",
-			"MLSmoke_Mag"
+			"MLSmoke_Mag",
+			"MLMelta_Mag"
 		};
 		canLock=2;
 		weaponLockDelay=5;

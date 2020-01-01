@@ -191,6 +191,98 @@ class CfgAmmo
 		indirectHitRange=2;
 	};
 
+	class TIOW_MLMelta: RocketBase
+	{
+		model="\A3\Weapons_F_Exp\Launchers\RPG7\rocket_rpg7.p3d";
+		hit=1200;
+		indirectHit=3;
+		indirectHitRange=1;
+		explosive=0.1;
+		cost=350;
+		airFriction=0.085;
+		sideAirFriction=0.085;
+		maxSpeed=700;
+		initTime=0;
+		thrustTime=1;
+		thrust=1600;
+		fuseDistance=15;
+		submunitionAmmo="TIOW_MLAT_Penetrator";
+		CraterEffects="ATMissileCrater";
+		explosionEffects="TIOW_Meltagun_flameExplosion";
+		submunitionDirectionType="SubmunitionModelDirection";
+		submunitionInitSpeed=820;
+		submunitionParentSpeedCoef=0;
+		submunitionInitialOffset[]={0,0,-0.2};
+		effectsMissileInit="";
+		effectsMissile="EmptyEffect";
+		simulationStep=0.02;
+		airLock=0;
+		aiAmmoUsageFlags="128 + 512";
+		irLock=1;
+		timeToLive=10;
+		maneuvrability=0;
+		allowAgainstInfantry=0;
+		caliber=0;
+		soundHit1[]=
+		{
+			"A3\Sounds_F\arsenal\weapons\Launchers\Titan\Explosion_titan_missile_01",
+			2.5118899,
+			1,
+			1800
+		};
+		soundHit2[]=
+		{
+			"A3\Sounds_F\arsenal\weapons\Launchers\Titan\Explosion_titan_missile_02",
+			2.5118899,
+			1,
+			1800
+		};
+		soundHit3[]=
+		{
+			"A3\Sounds_F\arsenal\weapons\Launchers\Titan\Explosion_titan_missile_03",
+			2.5118899,
+			1,
+			1800
+		};
+		multiSoundHit[]=
+		{
+			"soundHit1",
+			0.34,
+			"soundHit2",
+			0.33000001,
+			"soundHit3",
+			0.33000001
+		};
+		class CamShakeExplode
+		{
+			power="(35*0.2)";
+			duration="((round (35^0.5))*0.2 max 0.2)";
+			frequency=20;
+			distance="((4 + 35^0.5)*8)";
+		};
+		class CamShakeHit
+		{
+			power=85;
+			duration="((round (85^0.25))*0.2 max 0.2)";
+			frequency=20;
+			distance=1;
+		};
+		class CamShakeFire
+		{
+			power="(15^0.25)";
+			duration="((round (15^0.5))*0.2 max 0.2)";
+			frequency=20;
+			distance="((15^0.5)*8)";
+		};
+		class CamShakePlayerFire
+		{
+			power=1;
+			duration=0.1;
+			frequency=20;
+			distance=1;
+		};
+	};
+
 	class HighDensityM36KantRifle_LasBolt: BulletBase
 	{
 		allowAgainstInfantry=1;

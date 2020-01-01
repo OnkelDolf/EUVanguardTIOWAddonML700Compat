@@ -6,7 +6,7 @@ class CfgVehicles {
 	//TODO: Balance out the space marines so a Lucius pattern lasgun can't one shot them//
 	//////////////////////////////////////////////////////////////////////////////////////
 
-	/*
+	
     class ThingX;	// External class reference
 	class CAManBase;	// External class reference
 	
@@ -14,11 +14,12 @@ class CfgVehicles {
 		class HeadLimits;	// External class reference
 	};
 	
+    /*
 	class TIOWSpaceMarine_Base : SoldierWB {
 		class HitPoints { // Additional info can be found on the wiki https://community.bistudio.com/wiki/Arma_3_Soldier_Protection
 			 class HitFace
     {
-        armor = 6;  // "Healthpoints" of this hitpoint is armor value (of hitpoint) * armor value ( coefficient of the total armor defined below for the whole object
+        armor = 9;  // "Healthpoints" of this hitpoint is armor value (of hitpoint) * armor value ( coefficient of the total armor defined below for the whole object
         material = -1; // damage material (-1 means "unused")
         name = "face_hub"; // selection name from hit points LOD in object
         passThrough = 0.8; // coefficient defining how much damage will pass into total damage when this hit point is damaged
@@ -29,7 +30,7 @@ class CfgVehicles {
     };
     class HitNeck: HitFace
     {
-        armor = 6;
+        armor = 40;
         material = -1;
         name = "neck";
         passThrough = 0.8;
@@ -40,7 +41,7 @@ class CfgVehicles {
     };
     class HitHead: HitNeck
     {
-        armor = 6;
+        armor = 9;
         material = -1;
         name = "head";
         passThrough = 0.8;
@@ -52,7 +53,7 @@ class CfgVehicles {
     };
     class HitPelvis: HitHead
     {
-        armor = 6;
+        armor = 40;
         material = -1;
         name = "pelvis";
         passThrough = 0.8;
@@ -65,7 +66,7 @@ class CfgVehicles {
     };
     class HitAbdomen: HitPelvis
     {
-        armor = 1;
+        armor = 40;
         material = -1;
         name = "spine1";
         passThrough = 0.8;
@@ -77,7 +78,7 @@ class CfgVehicles {
     };
     class HitDiaphragm: HitAbdomen
     {
-        armor = 1;
+        armor = 40;
         material = -1;
         name = "spine2";
         passThrough = 0.8;
@@ -89,7 +90,7 @@ class CfgVehicles {
     };
     class HitChest: HitDiaphragm
     {
-        armor = 1;
+        armor = 40;
         material = -1;
         name = "spine3";
         passThrough = 0.8;
@@ -114,7 +115,7 @@ class CfgVehicles {
     };
     class HitArms: HitBody
     {
-        armor = 3;
+        armor = 40;
         material = -1;
         name = "arms";
         passThrough = 1;
@@ -127,7 +128,7 @@ class CfgVehicles {
     };
     class HitHands: HitArms
     {
-        armor = 3;
+        armor = 40;
         material = -1;
         name = "hands";
         passThrough = 1;
@@ -140,7 +141,7 @@ class CfgVehicles {
     };
     class HitLegs: HitHands
     {
-        armor = 3;
+        armor = 40;
         material = -1;
         name = "legs";
         passThrough = 1;
@@ -166,7 +167,7 @@ class CfgVehicles {
     };
     class HitLeftArm
     {
-        armor = 1;
+        armor = 40;
         material = -1;
         name = "hand_l";
         passThrough = 1;
@@ -182,7 +183,7 @@ class CfgVehicles {
     };
     class HitLeftLeg
     {
-        armor = 1;
+        armor = 40;
         material = -1;
         name = "leg_l";
         passThrough = 1;
@@ -213,6 +214,7 @@ class CfgVehicles {
 		uniformAccessories[] = {};
 	};
     */
+    
     class B_Soldier_F;
 	class Strategic;
 	class ReammoBox: Strategic

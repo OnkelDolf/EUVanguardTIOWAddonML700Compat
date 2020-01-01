@@ -310,4 +310,18 @@ class CfgMagazines
 		type="2*  256";
 		mass=30;
 	};
+	class MLMelta_Mag: RPG32_F
+	{
+		author="1st legion";
+		scope=2;
+		displayName="Melta Missile";
+		displaynameShort="Melta";
+		descriptionShort="";
+		model="\A3\Weapons_F_Exp\Launchers\RPG7\rocket_rpg7_item.p3d";
+		picture="\A3\Weapons_F_Exp\Launchers\RPG7\Data\UI\icon_rocket_RPG7_CA.paa";
+		initSpeed=140;
+		ammo="TIOW_MLMelta";
+		type="2*  256";
+		mass=60;
+	}
 };

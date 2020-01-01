@@ -7,7 +7,8 @@ class CfgPatches {
 		requiredVersion = 0.1;
 		units[] = {"TIOW_CadATBackpack"};
 		weapons[] = {"Van_Gear", "Van_MedGear", "Van_Inf_Helm", "Van_InfBreather_Helm", "LasLMGBase", "VanguardLasLMG"};
-		magazines[]= {"HighDensityM36KantRifle_mag", "150RndLasLmg_mag", "200RndLasLmg_mag", "TIOW_100Rnd_Stubber_mag", "TIOW_100Rnd_Stubber_mag_Tracer", "TIOW_100Rnd_Stubber_amput", "TIOW_100Rnd_Stubber_manstop", "TIOW_100Rnd_Stubber_expander", "TIOW_150Rnd_Stubber_mag", "TIOW_150Rnd_Stubber_mag_Tracer", "TIOW_150Rnd_Stubber_amput", "TIOW_150Rnd_Stubber_manstop", "TIOW_150Rnd_Stubber_expander"};
+		magazines[]= {"HighDensityM36KantRifle_mag", "150RndLasLmg_mag", "200RndLasLmg_mag", "TIOW_100Rnd_Stubber_mag", "TIOW_100Rnd_Stubber_mag_Tracer", "TIOW_100Rnd_Stubber_amput", "TIOW_100Rnd_Stubber_manstop", "TIOW_100Rnd_Stubber_expander", "TIOW_150Rnd_Stubber_mag", "TIOW_150Rnd_Stubber_mag_Tracer", "TIOW_150Rnd_Stubber_amput", "TIOW_150Rnd_Stubber_manstop", "TIOW_150Rnd_Stubber_expander", "MLSmoke_Mag", "MLMelta_Mag"};
+		ammo[]= {};
 		worlds[] = {};
 	};
 };
